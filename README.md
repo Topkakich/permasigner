@@ -72,7 +72,7 @@ Plus, big thanks to all of the contributors that made this project possible.
 
 # License
 
-Permasigner is licensed under the BSD-3-Clause license, and can be found [here](https://github.com/permasigner/permasigner/blob/main/LICENSE).
+Permasigner is licensed under the BSD-3-Clause license, and can be found [here].(https://github.com/permasigner/permasigner/blob/main/LICENSE).
 
 # Other Stuff
 
